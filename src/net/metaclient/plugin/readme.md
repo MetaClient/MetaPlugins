@@ -13,7 +13,7 @@ In meinem Fall TestPlugin.
 
 Nun implementierst du der Klasse das MetaPluginInterface.
 
-![alt text](http://metaclient.net/InterfacePic.png)
+![alt text](http://metaclient.net/PluginEx.png)
 
 Nun wird dir je nach Benutzeroberfläche jetzt schon gemeldet das irgendwas fehlt.
 Wenn du dir Option hast dann füge die fehlenden Sachen hinzu.
@@ -28,7 +28,7 @@ Die stop Methode wird derzeit noch nicht verwendet.
 Mit der "metaApi" Variable kannst du viele Methoden aufrufen und benutzen.
 Hier kurz aufgelistet:
 
-![alt text](http://metaclient.net/interfaceMethods.png)
+![alt text](http://metaclient.net/InterfacePic2.png)
 
 Nun ist dir der Rest überlassen.
 Aber etwas habe ich noch für dich.
