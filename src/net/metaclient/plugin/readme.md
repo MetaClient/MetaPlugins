@@ -32,5 +32,5 @@ Hier kurz aufgelistet:
 
 Nun ist dir der Rest überlassen.
 Aber etwas habe ich noch für dich.
-In [GitHub Pages](https://pages.github.com/) hast du ein komplettes Beispiel.
+[HIER](https://github.com/MetaClient/MetaPlugins/tree/master/src/net/metaclient/plugin/test) hast du ein komplettes Beispiel.
 Du kannst dich daran orientieren und auch sicher ein sehr schönes Plugin daraus machen.
