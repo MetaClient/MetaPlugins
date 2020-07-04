@@ -19,7 +19,7 @@ Nun wird dir je nach Benutzeroberfläche jetzt schon gemeldet das irgendwas fehl
 Wenn du dir Option hast dann füge die fehlenden Sachen hinzu.
 Am Ende sollte es dann so aussehen:
 
-![alt text](http://metaclient.net/FullClass.png)
+![alt text](http://metaclient.net/fullClass.png)
 
 Nun kannst du beginnen.
 Die start Methode wird kurz vor dem Erscheinen des Hauptmenüs ausgelößt
@@ -32,5 +32,5 @@ Hier kurz aufgelistet:
 
 Nun ist dir der Rest überlassen.
 Aber etwas habe ich noch für dich.
-In [Link] hast du ein komplettes Beispiel.
+In [GitHub Pages](https://pages.github.com/) hast du ein komplettes Beispiel.
 Du kannst dich daran orientieren und auch sicher ein sehr schönes Plugin daraus machen.
